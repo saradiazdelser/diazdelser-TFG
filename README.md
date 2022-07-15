@@ -1,7 +1,7 @@
 # Application of Natural Language Processing for Analysis of Science and Technology in the Biomedical Field
 
 ## Project Data
-For the topic modeling visualization, the web-app requires data that can be found at:
+For the topic modeling visualization data, please contact me.
 
 
 
