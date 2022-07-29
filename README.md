@@ -1,7 +1,9 @@
 # Application of Natural Language Processing for Analysis of Science and Technology in the Biomedical Field
 
 ## Project Data
-For the topic modeling visualization data, please contact me.
+For the topic modeling visualization data, please refer to the following Zenodo dataset:
+
+> Diaz del Ser, Sara. (2022). Visualization Data for Topic Modeling in the Field of Biotechnology (Bachelor's Thesis) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.6835651
 
 
 
